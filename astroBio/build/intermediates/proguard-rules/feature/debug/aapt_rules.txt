@@ -1,0 +1,51 @@
+# Referenced at D:\AstroBiography\astroBio\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:70
+-keep class com.example.anzony.astrobiography.astroBio.ItemDetailActivity { <init>(...); }
+# Referenced at D:\AstroBiography\astroBio\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:54
+-keep class com.example.anzony.astrobiography.astroBio.ItemListActivity { <init>(...); }
+# Referenced at D:\AstroBiography\astroBio\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:17
+-keep class com.example.anzony.astrobiography.astroBio.LoginActivity { <init>(...); }
+# Referenced at D:\AstroBiography\astroBio\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:38
+-keep class com.example.anzony.astrobiography.astroBio.MainActivity { <init>(...); }
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\recycler_view_item_1.xml:2
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\recycler_view_item.xml:2
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\content_main.xml:2
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\app_bar_main.xml:9
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_list.xml:10
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_detail.xml:11
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_detail.xml:18
+-keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\app_bar_main.xml:2
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_list.xml:2
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_detail.xml:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\app_bar_main.xml:26
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_list.xml:33
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_detail.xml:44
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_main.xml:16
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_login.xml:34
+-keep class android.support.design.widget.TextInputLayout { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_main.xml:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_detail.xml:38
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\item_list.xml:2
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\app_bar_main.xml:14
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_list.xml:16
+# Referenced at D:\AstroBiography\astroBio\src\main\res\layout\activity_item_detail.xml:27
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+

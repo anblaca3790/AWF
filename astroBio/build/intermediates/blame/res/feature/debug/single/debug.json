@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_recycler_view_item_1.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\recycler_view_item_1.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_item_list_content.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\item_list_content.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_item_list.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_item_list.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\activity_item_list.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_recycler_view_item.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\recycler_view_item.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\menu_main.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_item_detail.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout-w900dp_item_list.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout-w900dp\\item_list.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\AstroBiography\\astroBio\\build\\intermediates\\res\\merged\\feature\\debug\\layout_item_detail.xml.flat",
+        "source": "D:\\AstroBiography\\astroBio\\src\\main\\res\\layout\\item_detail.xml"
+    }
+]
