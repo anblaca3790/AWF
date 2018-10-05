@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AstroBiography\\base\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values-v22\\values-v22.xml",
+            "outputFile": "D:\\AstroBiography\\AWF\\base\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ánzony\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9699e7796d43b6bccf4b48dd17a8f30c\\res\\values-v22\\values-v22.xml",

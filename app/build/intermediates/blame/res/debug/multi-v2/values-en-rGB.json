@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AstroBiography\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "outputFile": "D:\\AstroBiography\\AWF\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ánzony\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\6dd0138d470a9f477a53926583cb9e36\\res\\values-en-rGB\\values-en-rGB.xml",
